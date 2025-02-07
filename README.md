@@ -1,10 +1,11 @@
 # c-program-practise
-Sample Input 0
+## Sample Input 0
 
 C
 Language
 Welcome To C!!
-Sample Output 0
+
+## Sample Output 0
 
 C
 Language
