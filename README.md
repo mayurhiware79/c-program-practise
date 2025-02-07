@@ -1,1 +1,1 @@
-### c-program-practise
+### C-PROGRAM-PRACTISE
